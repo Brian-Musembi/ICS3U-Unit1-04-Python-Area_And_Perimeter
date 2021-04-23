@@ -2,7 +2,7 @@
 
 # Created by: Brian Musembi
 # Created on: 23 April 2021
-# This is the "Hello, World!" program, with proper style
+# This program calculates the area of a rectangle 73m by 82m
 
 def main():
     print("If a rectangle has the dimensions below:")
